@@ -1,6 +1,6 @@
 *{
     font-family: 'Times New Roman', Times, serif;
-    color:#330000;
+    color:#2d1c06;
 }
 
 body{
@@ -24,7 +24,7 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-image: linear-gradient(#330000, #faebd7);
+    background-image: linear-gradient(#faebd7, #2d1c06);
     color: rgb(0, 0, 0);
     text-align: center;
  }
