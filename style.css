@@ -6,11 +6,11 @@
 body{
     background-color: #faebd7;
 }
-img{
+/*img{
     display: block;
     margin-left: auto;
     margin-right: right;
-}
+}*/
 .cabecalho{
     text-align: center;
     font-size: 30px;
@@ -31,4 +31,7 @@ footer {
  }
 .primeira{
     text-align: left;
+}
+img{
+    float:left;
 }
